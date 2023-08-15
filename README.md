@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS / Azure / Ali cloud / Python / DevOps**
 
-- 📫 How to reach me **fredwong124@gmail.com**
+- 📫 How to reach me **fredwong1204@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
