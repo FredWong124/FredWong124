@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fred Wong</h1>
 <h3 align="center">A infra guy who found interest in python.</h3>
 
-- 🌱 I’m currently learning **AWS / Azure / Ali cloud**
+- 🌱 I’m currently learning **AWS / Azure / Ali cloud / Python / DevOps**
 
 - 📫 How to reach me **fredwong124@gmail.com**
 
