@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fred Wong</h1>
-<h3 align="center">A infra guy who found interest in python.</h3>
+<h3 align="center">A infra guy who found interest in python. This Github would record how do i improve myself. </h3>
 
 - 🌱 I’m currently learning **AWS / Azure / Ali cloud / Python / DevOps**
 
